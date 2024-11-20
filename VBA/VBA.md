@@ -1,5 +1,5 @@
 
-MsgBox "Meu primeiro [[VBA]]
+MsgBox "Meu primeiro [[vba/VBA]]
 
 Debug.Print Apresenta resultados na caixa de verificação imediata
 

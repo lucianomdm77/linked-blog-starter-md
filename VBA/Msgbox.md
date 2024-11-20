@@ -1,6 +1,6 @@
 # Quebra de Linha em {{{}}}
 
-em [[VBA]]
+em [[vba/VBA]]
 ## vbCrLf ou Chr(13) ou Chr(10)
 
 - Msgbox "comando de quebra de linha" & vbCrLf & "continua na segunda linha" &  vbCrLf & "!"

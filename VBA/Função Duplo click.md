@@ -1,4 +1,4 @@
-[[VBA]]
+[[vba/VBA]]
 
 
 Private Sub Worksheet_BeforeDoubleClick(ByVal Target As Range, Cancel As Boolean)

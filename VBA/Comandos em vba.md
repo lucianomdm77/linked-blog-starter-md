@@ -1,5 +1,5 @@
 
-'definir um valor para a celula em [[VBA]]
+'definir um valor para a celula em [[vba/VBA]]
 
 ActiveSheet.Range("a1").Value = "Luciano"
 
